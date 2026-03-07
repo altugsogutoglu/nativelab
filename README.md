@@ -36,23 +36,6 @@ Browse your projects, issues, and merge requests on the go — with full offline
 - **Demo Mode** — Try the app without a GitLab account
 - **Self-hosted** — Works with gitlab.com and any self-hosted GitLab instance
 
-## Tech Stack
-
-- React Native + Expo (SDK 53)
-- Expo Router (file-based navigation)
-- NativeWind v4 (Tailwind CSS for React Native)
-- React Query (TanStack Query)
-- i18next (internationalization)
-- GitLab REST API v4
-
-## Getting Started
-
-```bash
-cd mobile
-npm install
-npm start
-```
-
 ## License
 
 All rights reserved.
